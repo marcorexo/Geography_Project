@@ -1,12 +1,12 @@
-, pH,Sample Depth (cm),Sedimentation Time (mins),Soil Type,Ambient Temp,Soil Temp,Slope,Water Content
-1,7.0,13,2,Gravel,9,nan,1,12.2
-2,6.0,18,4,Gravel & Sand,9,nan,5,12.4
-3,6.0,30,6,Gravel & Sand,10,nan,45,12
-4,5.0,50,10,Silt & Sand,11,nan,43,12.4
-5,5.0,80,15,Clay & Silt,11,nan,42,13
-6,4.0,100,30,Clay,11.5,nan,45,40
-7,5.0,60,18,Clay & Silt,11,nan,5,10
-8,6.0,55,15,Clay & Silt,11,nan,10,10
-9,6.0,65,26,Clay,10,nan,14,11.2
-10,6.0,40,19,Clay & Silt,10,nan,14,10
-11,7.0,40,14,Clay & Silt,9.5,nan,16,8.4
+, Distance (m), Height (m), pH,Sample Depth (cm),Sedimentation Time (mins),Soil Type,Ambient Temp,Soil Temp,Slope,Water Content
+1, 0, 400, 7.0,13,2,Gravel,9,nan,1,12.2
+2, 73, 300, 6.0,18,4,Gravel & Sand,9,nan,5,12.4
+3, 163 , 280, 6.0,30,6,Gravel & Sand,10,nan,45,12
+4, 205, 250, 50,10,Silt & Sand,11,nan,43,12.4
+5, 284, 200, 5.0,80,15,Clay & Silt,11,nan,42,13
+6, 389, 200, 4.0,100,30,Clay,11.5,nan,45,40
+7, 436, 5.0,60,18,Clay & Silt,11,nan,5,10
+8, 472, 6.0,55,15,Clay & Silt,11,nan,10,10
+9, 561, 6.0,65,26,Clay,10,nan,14,11.2
+10,603, 6.0,40,19,Clay & Silt,10,nan,14,10
+11,634, 7.0,40,14,Clay & Silt,9.5,nan,16,8.4
